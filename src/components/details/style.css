@@ -1,0 +1,14 @@
+.card-details {
+	cursor: context-menu;
+}
+
+.card-details__btn {
+	color: #6D51B5;
+	background-color: transparent;
+	transition: background-color .1s;
+	font-weight: bold;
+}
+
+.card-details__btn:hover {
+	background-color: #F7F8FC;
+}

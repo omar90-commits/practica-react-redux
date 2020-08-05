@@ -1,0 +1,15 @@
+.nav {
+    background-color: #3F51B5;
+    box-shadow: 0 5px 6px lightgray;
+}
+
+.nav p {
+    font-size: 1.3rem;
+}
+
+.circulo {
+	border: 1px solid white;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
